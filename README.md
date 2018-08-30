@@ -1,5 +1,7 @@
 # Simple Neural Networks
 
+![](https://pp.userapi.com/c638919/v638919368/6018f/1N1-nYfT1AE.jpg)
+
 Three simple feedforward neural networks.
 
 ## Authors
